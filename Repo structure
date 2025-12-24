@@ -1,0 +1,12 @@
+music-bot/
+│
+├── bot.py
+├── config.py
+├── start.py
+├── clone.py
+├── help.py
+├── requirements.txt
+├── .gitignore
+├── .env        
+├── README.md
+└── LICENSE
